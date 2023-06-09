@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KuchB/static/css/main.073c9b0a.css",
+    "main.js": "/KuchB/static/js/main.043e9ba0.js",
+    "static/js/787.997c72cb.chunk.js": "/KuchB/static/js/787.997c72cb.chunk.js",
+    "static/media/logo.svg": "/KuchB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KuchB/index.html",
+    "main.073c9b0a.css.map": "/KuchB/static/css/main.073c9b0a.css.map",
+    "main.043e9ba0.js.map": "/KuchB/static/js/main.043e9ba0.js.map",
+    "787.997c72cb.chunk.js.map": "/KuchB/static/js/787.997c72cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.043e9ba0.js"
+  ]
+}
